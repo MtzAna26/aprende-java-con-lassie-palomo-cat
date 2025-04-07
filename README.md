@@ -43,11 +43,6 @@ Crear una guía accesible, creativa y llena de amor que ayude a más personas a 
 Este repositorio está en construcción. Conforme avance el contenido se irán agregando más ejercicios, historias e ilustraciones.  
 ¡Síguelo para ver las nuevas aventuras de Lassie, Palomo y Cat! 🐾
 
----
-
-> 💛 Este es un homenaje con mucho cariño a **Lassie**, mi amigo de cuatro patas, quien aunque ya no esté físicamente, sigue inspirando cada paso de este proyecto.
-
----
 
 ## 🤝 Contribuciones
 
